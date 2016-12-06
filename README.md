@@ -1,4 +1,4 @@
-Este proyecto se encuentra enfocado en uno de los medios de transporte público de México; los **taxis**. Su objetivo es combatir los dos principales problemas que lo afectan:
+Este proyecto se encuentra enfocado en uno de los medios de transporte público de México; **taxis**. Su objetivo es combatir los dos principales problemas que lo afectan:
 
   * Inseguridad - Asaltos, secuestros y robos a negocios utilizando a un taxi como medio de transporte. Taxistas y pasajeros se ven afectados. 
 
@@ -10,6 +10,8 @@ Con la finalidad de erradicar o en su defecto reducir ambos problemas se busca l
     * Estatus: 6/32
 
 Si quieres conocer más acerca del tema, escribí un artículo que puedes leer [aquí](https://medium.com/@edgar.gutierrez.gzz/padr%C3%B3n-de-taxis-de-nuevo-le%C3%B3n-121b12bf3d89#.ck9ypuqca).
+
+Si quieres contribuir al proyecto puedes subir algún padrón de taxis faltante. 
 
 ### Data
 
