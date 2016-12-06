@@ -9,7 +9,7 @@ Con la finalidad de erradicar o en su defecto reducir ambos problemas se busca l
   * Liberar, limpiar y publicar el padrón de taxis de todos los estados de México.
     * Estatus: 6/32
 
-Si quieres conocer más acerca del tema, escribí un artículo que puedes leer [aquí](https://medium.com/@edgar.gutierrez.gzz/padr%C3%B3n-de-taxis-de-nuevo-le%C3%B3n-121b12bf3d89#.ck9ypuqca)
+Si quieres conocer más acerca del tema, escribí un artículo que puedes leer [aquí](https://medium.com/@edgar.gutierrez.gzz/padr%C3%B3n-de-taxis-de-nuevo-le%C3%B3n-121b12bf3d89#.ck9ypuqca).
 
 ### Data
 
