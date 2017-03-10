@@ -1,3 +1,5 @@
+Equis. 
+
 Este proyecto se encuentra enfocado en uno de los medios de transporte público de México; **taxis**. Su objetivo es combatir los dos principales problemas que lo afectan:
 
   * Inseguridad - Asaltos, secuestros y robos a negocios utilizando a un taxi como medio de transporte. Taxistas y pasajeros se ven afectados. 
