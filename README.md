@@ -13,9 +13,9 @@ Si quieres conocer más acerca del tema, escribí un artículo que puedes leer [
 
 Si quieres contribuir al proyecto puedes limpiar algún padrón de taxis faltante. Una lista detallada de los padrones faltantes la puedes encontrar [aquí](https://docs.google.com/spreadsheets/d/1nF0zu67nIWU1QNwlpKN8Z2xadoynfz7H_PybWQMJUxI/edit?usp=sharing). 
 
-### Estados
+### Data
 
-La carpeta de cada estado contiene:
+La carpeta contiene los estados de la república en donde estado cuenta con:
 
    * El padrón de taxis en su formato original.
    * El proceso utilizado para limpiar el padrón de taxis.
