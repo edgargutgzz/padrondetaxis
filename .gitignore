@@ -1,4 +1,4 @@
-*gitignore
+*.gitignore
 *.ipynb_checkpoints
 *PNT/
 *notas.txt
