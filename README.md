@@ -15,7 +15,7 @@ Si quieres contribuir al proyecto puedes limpiar algún padrón de taxis faltant
 
 ### Data
 
-La carpeta contiene los estados de la república en donde estado cuenta con:
+La carpeta contiene los estados de la república en donde cada estado cuenta con:
 
    * El padrón de taxis en su formato original.
    * El proceso utilizado para limpiar el padrón de taxis.
