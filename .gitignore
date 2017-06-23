@@ -1,3 +1,4 @@
+*.gitignore
 *.ipynb_checkpoints
 *pnt/
 *notas.txt
@@ -10,4 +11,4 @@
 *data/yucatan/yucatan_raw_early_2017.pdf
 *data/guanajuato/guanajuato_raw_2016.csv
 *data/queretaro/queretaro_raw_early_2017.pdf
-*data/chiapas/chiapas_early_old.pdf
+*data/chiapas/chiapas_raw_old.pdf
