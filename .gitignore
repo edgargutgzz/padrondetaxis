@@ -1,0 +1,13 @@
+*.ipynb_checkpoints
+*pnt/
+*notas.txt
+*data/jalisco/jalisco-f_raw_early(1)2016.xls
+*data/jalisco/jalisco-f_raw_early(2)2016.xls
+*data/jalisco/jalisco-m_raw_early(1)2016.xls
+*data/jalisco/jalisco-m_raw_early(2)2016.xls
+*data/puebla/puebla_raw_2016.pdf
+*data/puebla/puebla_raw_local_2016.pdf
+*data/yucatan/yucatan_raw_early_2017.pdf
+*data/guanajuato/guanajuato_raw_2016.csv
+*data/queretaro/queretaro_raw_early_2017.pdf
+*data/chiapas/chiapas_early_old.pdf
