@@ -1,6 +1,8 @@
 *.ipynb_checkpoints
 *pnt/
 *notas.txt
+*data/aguascalientes/aguascalientes.ipynb
+*data/aguascalientes/aguascalientes_raw_2016.pdf
 *data/chiapas/chiapas_raw_2017.pdf
 *data/jalisco/jalisco.ipynb
 *data/jalisco/jalisco_f_raw_2016.xls   
