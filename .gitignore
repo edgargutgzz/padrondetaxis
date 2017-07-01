@@ -11,8 +11,8 @@
 *data/durango/durango.ipynb
 *data/estadodemexico/estadodemexico_raw_2016.pdf
 *data/estadodemexico/estadodemexico.ipynb
-*data/guanajuato/guanajuato_raw_1_2017.csv
 *data/guanajuato/guanajuato_raw_2016.csv
+*data/guanajuato/guanajuato_raw_1_2017.csv
 *data/guanajuato/guanajuato.ipynb
 *data/jalisco/jalisco.ipynb
 *data/jalisco/jalisco_f_raw_2016.xls   
@@ -27,6 +27,7 @@
 *data/puebla/puebla_limpio.ipynb
 *data/puebla/puebla_raw_2016.pdf
 *data/puebla/puebla_local_raw_2016.pdf
+*data/puebla/puebla_raw_local_2016.pdf
 *data/queretaro/queretaro_raw_1_2017.pdf
 *data/queretaro/queretaro_limpio.ipynb
 *data/quintanaroo/quintanaroo_bacalar_raw_2016.pdf
@@ -76,7 +77,5 @@
 *data/yucatan/yucatan_raw_1_2017.pdf
 *data/yucatan/yucatan_raw_2_2017.pdf
 *data/yucatan/yucatan.ipynb
-*data/puebla/puebla_raw_2016.pdf
-*data/puebla/puebla_raw_local_2016.pdf
 *data/yucatan/yucatan_raw_early_2017.pdf
-*data/guanajuato/guanajuato_raw_2016.csv
+*data/zacatecas/zacatecas_raw_2016.xls
