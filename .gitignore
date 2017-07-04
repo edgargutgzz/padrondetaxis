@@ -1,6 +1,7 @@
 *.ipynb_checkpoints
 *pnt/
 *notas.txt
+*website/
 *data/aguascalientes/aguascalientes.ipynb
 *data/aguascalientes/aguascalientes_raw_2016.pdf
 *data/bajacaliforniasur/bajacaliforniasur_raw_2017.pdf
