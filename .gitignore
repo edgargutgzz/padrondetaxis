@@ -5,8 +5,6 @@
 *habitantes_taxi.ipynb
 *poblacion.csv
 *poblacion.xls
-*data/aguascalientes/aguascalientes.ipynb
-*data/aguascalientes/aguascalientes_raw_2016.pdf
 *data/bajacaliforniasur/bajacaliforniasur_raw_2017.pdf
 *data/campeche/campeche.ipynb
 *data/chiapas/chiapas_raw_2017.pdf
@@ -18,13 +16,8 @@
 *data/guanajuato/guanajuato_raw_2016.csv
 *data/guanajuato/guanajuato_raw_1_2017.csv
 *data/guanajuato/guanajuato.ipynb
-*data/jalisco/jalisco.ipynb
-*data/jalisco/jalisco_f_raw_2016.xls   
-*data/jalisco/jalisco_f_raw_1_2016.xls
-*data/jalisco/jalisco_f_raw_2_2016.xls
-*data/jalisco/jalisco_m_raw_2016.xls
-*data/jalisco/jalisco_m_raw_1_2016.xls
-*data/jalisco/jalisco_m_raw_2_2016.xls
+*data/jalisco/jalisco-m_raw1_2017.xls
+*data/jalisco/jalisco-f_raw1_2017.xls
 *data/nuevoleon/nuevoleon_limpio.csv
 *data/nuevoleon/nuevoleon.ipynb
 *data/oaxaca/
